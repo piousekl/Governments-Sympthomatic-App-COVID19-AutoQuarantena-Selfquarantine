@@ -9,10 +9,7 @@
 </head>
 <body>
 <p class="p1">Hi,</p>
-<p class="p1">I'd like to submit you: an opensource application that would give institutions a real-time platform to monitor the symptoms<span class="Apple-converted-space"> </span></p>
-<p class="p1">of all citizens about coronavirus and create the <b>SYMPOTAMATIC MAP</b> in real time to anticipate the <b>covid19</b> spread<span class="Apple-converted-space"> </span></p>
-<p class="p1">(spread map is too late).</p>
-<p class="p2"><br></p>
+<p class="p1">I'd like to submit you: an opensource application that would give institutions a real-time platform to monitor the symptoms of all citizens about coronavirus and create the <b>SYMPOTAMATIC MAP</b> in real time to anticipate the <b>covid19</b> (spread map is too late).</p>
 <p class="p2"><br></p>
 <p class="p1"><b>INTRODUCTION:</b></p>
 <p class="p3"><b>NOW HERE IN ITALY WE ARE ALREADY IN SELF-QUARANTINE (AND WE WILL BE LONG) SO MAKE AVAILABLE TO GOVERNMENTS/OMS AND SCIENCE,</b></p>
