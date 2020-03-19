@@ -8,8 +8,7 @@
 </head>
 <body>
 <p class="p1"><span class="s1">Hi,</span></p>
-<p class="p1"><span class="s1">I'd like to submit you: an opensource application that would give institutions a real-time platform to monitor the symptoms of all citizens about coronavirus and create the <b>SYMPOTAMATIC MAP</b> in real time to anticipate the <b>covid19</b> spread<span class="Apple-converted-space"> </span></p>
-<p class="p1"><span class="s1">(spread map is too late).</span></p>
+<p class="p1"><span class="s1">I'd like to submit you: an opensource application that would give institutions a real-time platform to monitor the symptoms of all citizens about coronavirus and create the <b>SYMPOTAMATIC MAP</b> in real time to anticipate the <b>covid19</b> spread.(spread map is too late).</span></p>
 <p class="p1"><span class="s1"><br>
 <b>INTRODUCTION:</b></span></p>
 <p class="p2"><span class="s1"><b>NOW HERE IN ITALY WE ARE ALREADY IN SELF-QUARANTINE (AND WE WILL BE LONG) SO MAKE AVAILABLE TO GOVERNMENTS/OMS AND SCIENCE,</b></span></p>
@@ -141,10 +140,7 @@ ________________________________________________________________________________
   <li class="li5"><span class="s1">Facile e veloce implementazione</span></li>
 </ul>
 <p class="p3"><span class="s1"></span><br></p>
-<p class="p3"><span class="s1"></span><br></p>
-<p class="p3"><span class="s1"></span><br></p>
-<p class="p3"><span class="s1"></span><br></p>
-<p class="p3"><span class="s1"></span><br></p>
+
 <p class="p1"><span class="s1">Thanks you all,</span></p>
 <p class="p1"><span class="s1">Fabio Santoro</span></p>
 </body>
