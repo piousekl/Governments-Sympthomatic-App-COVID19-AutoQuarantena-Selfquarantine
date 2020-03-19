@@ -1,5 +1,5 @@
 # Governments Sympthomatic App 
-# AutoQuarantena-Selfquarantine
+# COVID19 AutoQuarantena-Selfquarantine
 <B>Governments/WHO Self Quarantine App NO PROFIT/ OPEN SOURCE</B>
 
 <html>
