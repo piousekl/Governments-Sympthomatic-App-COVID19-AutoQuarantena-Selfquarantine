@@ -5,12 +5,10 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="Content-Style-Type" content="text/css">
- 
 </head>
 <body>
 <p class="p1"><span class="s1">Hi,</span></p>
-<p class="p1"><span class="s1">I'd like to submit you: an opensource application that would give institutions a real-time platform to monitor the symptoms<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">of all citizens about coronavirus and create the <b>SYMPOTAMATIC MAP</b> in real time to anticipate the <b>covid19</b> spread<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">I'd like to submit you: an opensource application that would give institutions a real-time platform to monitor the symptoms of all citizens about coronavirus and create the <b>SYMPOTAMATIC MAP</b> in real time to anticipate the <b>covid19</b> spread<span class="Apple-converted-space"> </span></p>
 <p class="p1"><span class="s1">(spread map is too late).</span></p>
 <p class="p1"><span class="s1"><br>
 <b>INTRODUCTION:</b></span></p>
