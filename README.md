@@ -67,7 +67,7 @@ Because of privacy limitations, probably the mandatory element would be finding 
   <li class="li1"><span class="s2"></span><span class="s1">Real-time <b>SYMPOTAMATIC BIG DATA</b> collection with which doctors can better organize the resources in the field and for virologists to study and understand how the virus behaves faster to find therapy and vaccine<span class="Apple-converted-space"> </span></span></li>
   <li class="li1"><span class="s2"></span><span class="s1">Protection of user privacy, to the end user, the application will only provide aggregate / anonymous data ((data managed / stored directly by Governments and Health Institutions )</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">All data collected will be managed and protected by each national health institution(or government ) to intervene in any emergency</span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">All the data collected would be shared with OMS to allow the study of the virus worldwide</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">All the data collected would be shared with WHO to allow the study of the virus worldwide</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">Worldwide tool for any future epidemic emergency</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">Quick and easy implementation</span></li>
 </ul>
