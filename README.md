@@ -57,6 +57,7 @@ Because of privacy limitations, probably the mandatory element would be finding 
 <p class="p3"><span class="s1"></span><br></p>
 <ul class="ul1">
   <li class="li1"><span class="s2"></span><span class="s1">Monitoring all citizens</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">Identification of ASYMPTOMATIC cases that emerged from the symptoms of one's own family</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">Real-time symptomatic map creation with data collected by all citizens</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">Clinical / symptomatic picture and the symptomatic history of each citizen during the period of self quarantine to allow a more precise and accurate reconstruction in case of aggravation and hospitalization.</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">Saving time, human resources, beds, intensive care, respiratory etc.</span></li>
@@ -125,6 +126,7 @@ ________________________________________________________________________________
 <p class="p6"><span class="s1"></span><br></p>
 <ul class="ul2">
   <li class="li5"><span class="s1">Monitorare tutti i cittadini<span class="Apple-converted-space"> </span></span></li>
+  <li class="li5"><span class="s1">Identificazione casi ASINTOMATICI emersi dai sintomi del proprio nucleo familiare</span></li>
   <li class="li5"><span class="s1">Quadro <b>clinico/sintomatico</b> e lo <b>storico sintomatico</b> di ogni cittadino nel <b>periodo di autoquarantena</b> per consentire una ricostruzione più precisa ed accurata in caso di aggravamento e ricovero.</span></li>
   <li class="li5"><span class="s1">Risparmio di tempo ,risorse umane , posti letto , rianimazioni , respiratori etc</span></li>
   <li class="li5"><span class="s1">Diminuzione rischio contagio dei medici di base e del personale sanitario</span></li>
