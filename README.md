@@ -41,8 +41,18 @@ Because of privacy limitations, probably the mandatory element would be finding 
   <li class="li1"><span class="s2"></span><span class="s1">Daily body temperature</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">Symptoms list (the citizen selects if necessary or questionnaire mode to simplify data entry for the elderly)</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">List of taken medicines (list of medicines that the citizen selects)</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">List of previous pathologies i (possibility to select multiple previous pathologies)</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">List of 'got int contact people' (name, surname, place of contact, etc.)</span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">Realtime Symptomatic quarantines/self-quarantines Map together "contacted people” map areas</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">Realtime Symptomatic quarantines/self-quarantines Map </span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">Map Filter for symptoms (possibility to select multiple symptoms)</span></li>
+<li class="li1"><span class="s2"></span><span class="s1">Map Filter for previous pathologies i (possibility to select multiple previous pathologies)</span></li>
+<li class="li1"><span class="s2"></span><span class="s1">Map Filter by age range</span></li>
+<li class="li1"><span class="s2"></span><span class="s1">Map Filter by gender</span></li>
+<li class="li1"><span class="s2"></span><span class="s1">Map Radius filter (1-100 km)</span></li>
+<br>
+<li class="li1"><span class="s2"></span><span class="s1">ADVANCED (backend):
+Ability to see on the map how many patients (filtered by symptoms) is undergoing every general practitioner in order to help doctors with too many cases </span></li>
+  
   <li class="li1"><span class="s2"></span><span class="s1">Realtime notifications of instructions from<span class="Apple-converted-space">  </span>government institutions to the citizens (quarantine, end of the quarantine, where to find food, medicines, and so on)</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">Ability to request for medicine for quarantined people that can't move out of the house</span></li>
 </ul>
@@ -113,9 +123,20 @@ ________________________________________________________________________________
   <li class="li5"><span class="s1">Data di inizio della quarantena</span></li>
   <li class="li5"><span class="s1">Temperatura corporea giornaliera</span></li>
   <li class="li5"><span class="s1">Elenco dei sintomi (il cittadino seleziona all’occorrenza o modalità questionario per semplificare inserimento dati per gli anziani)</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">Elenco malattie pregresse (Lista da selezionare)</span></li>
   <li class="li5"><span class="s1">Medicinali assunti (elenco medicinali che il cittadino seleziona )</span></li>
   <li class="li5"><span class="s1">Elenco di 'got int contact people' (nome, cognome, luogo di contatto, ecc.)</span></li>
-  <li class="li5"><span class="s1">Mappa dei sintomi e delle quarantene / auto-quarantine insieme alla mappa delle persone contattate((in base al numero di autoquarantene geolocalizzate ed i luoghi dei contatti avuti si crea mappa delle zone più sintomatiche in tempo reale))</span></li>
+   <li class="li1"><span class="s2"></span><span class="s1">List of 'got int contact people' (name, surname, place of contact, etc.)</span></li>
+  <li class="li5"><span class="s1">Mappa in tempo reale dei sintomi </span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">Filtro Mappa per sintomi(possibilità di selezionare più sintomi)</li>
+<li class="li1"><span class="s2"></span><span class="s1">Filtro Mappa per patologie pregresse i(possibilità di selezionare più patologie pregresse)</span></li>
+<li class="li1"><span class="s2"></span><span class="s1">Filtro Mappa per range di età</span></li>
+<li class="li1"><span class="s2"></span><span class="s1">Filtro Mappa per sesso </span></li>
+<li class="li1"><span class="s2"></span><span class="s1">Filtro Mappa per raggio (1-100 km))</span></li>
+<br>
+<li class="li1"><span class="s2"></span><span class="s1">ADVANCED (backend):
+Possibilità di vedere in mappa quanti pazienti (filtrati per sintomi) sta seguendo ogni medico di base In modo da aiutare i medici con troppi casi </span></li>
+  
   <li class="li5"><span class="s1">Notifiche in tempo reale delle istruzioni fornite dalle istituzioni governative ai cittadini (quarantena, fine della quarantena, dove trovare cibo, medicine e così via)</span></li>
   <li class="li5"><span class="s1">Possibilità di richiedere medicine per le persone in quarantena che non possono trasferirsi fuori casa</span></li>
 </ul>
