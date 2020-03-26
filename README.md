@@ -40,12 +40,12 @@ Because of privacy limitations, probably the mandatory element would be finding 
   <li class="li1"><span class="s2"></span><span class="s1">Quarantine start date</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">Daily body temperature</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">Symptoms list (the citizen selects if necessary or questionnaire mode to simplify data entry for the elderly)</span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">List of taken medicines (list of medicines that the citizen selects)</span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">List of previous pathologies i (possibility to select multiple previous pathologies)</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">List of taken medicines (list of medicines that citizens select by category, e.g. antiviral, antipyretic etc ..)</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">List of previous pathologies (possibility to select multiple previous diseases, e.g. cardiopathic, diabetic, immunosuppressed, etc.)</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">List of 'got int contact people' (name, surname, place of contact, etc.)</span></li>
   <li class="li1"><span class="s2"></span><span class="s1">Realtime Symptomatic quarantines/self-quarantines Map </span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">Map Filter for symptoms (possibility to select multiple symptoms)</span></li>
-<li class="li1"><span class="s2"></span><span class="s1">Map Filter for previous pathologies i (possibility to select multiple previous pathologies)</span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">Map Filter for symptoms (possibility to select multiple symptoms eg cough, fever, etc.)</span></li>
+<li class="li1"><span class="s2"></span><span class="s1">Map Filter for previous pathologies i (possibility to select multiple previous diseases, e.g. cardiopathic, diabetic, immunosuppressed, etc.)</span></li>
 <li class="li1"><span class="s2"></span><span class="s1">Map Filter by age range</span></li>
 <li class="li1"><span class="s2"></span><span class="s1">Map Filter by gender</span></li>
 <li class="li1"><span class="s2"></span><span class="s1">Map Radius filter (1-100 km)</span></li>
